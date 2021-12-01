@@ -1,11 +1,10 @@
-package dwitjavaassignment.assignment1.GetWordCount;
+package com.java.assignment1.GetWordCount;
 
 /*
 method that takes  in strings and returns the word count.
 eg.
 "This is a java Program" = 5
  */
-
 import java.util.Scanner;
 
 public class Sentence {
