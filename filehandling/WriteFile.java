@@ -16,3 +16,7 @@ public class WriteFile {
         }
     }
 }
+
+
+
+//This justs print the content in the File. Please ask the input from the user and print it in the file. You need to use the Scanner classs inorder to take the input from the user.
